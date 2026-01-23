@@ -1,2 +1,15 @@
-# Genji-knowledge
-Knowledge base for 商品企画の鬼・ゲンジ
+# Genji Knowledge Pack
+
+このリポジトリは「商品企画の鬼・ゲンジ」Gemの知識（Knowledge）として取り込む前提のドキュメント集です。
+
+## 収録内容
+- 商品企画・マーケ戦略（USP / STP / 4P）
+- 通販・D2Cの勝ちパターンと失敗パターン
+- 原価率・CPA・LTVの関係（ユニットエコノミクス）
+- 定期購入モデル設計
+- OEM／ODMの現実的制約
+- 広告審査・景表法・薬機法の地雷ポイント
+- 機能性表示食品の届出設計と表現制限（概要）
+
+## 使い方
+GeminiのGemでKnowledgeとして本リポジトリ（または knowledge/ 配下）をインポートしてください。
